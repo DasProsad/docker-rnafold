@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-LABEL maintainer="Prosad Kumar Das<prosaddas888@gmail.com>"
+LABEL maintainer="Prosad Kumar Das<prosad.igib24a@acsir.res.in>"
 
 # Install necessary dependencies
 RUN apk add --no-cache \
